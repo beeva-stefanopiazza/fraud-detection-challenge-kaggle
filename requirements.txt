@@ -1,0 +1,10 @@
+numpy
+scipy
+pandas
+jupyterlab
+seaborn
+sklearn
+scikit-image
+theano
+keras
+pytorch
