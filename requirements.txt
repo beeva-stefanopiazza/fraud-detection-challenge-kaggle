@@ -7,4 +7,3 @@ sklearn
 scikit-image
 theano
 keras
-pytorch
